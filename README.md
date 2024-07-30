@@ -1,1 +1,1 @@
-# odin-landing-paeg
+# odin-landing-page
