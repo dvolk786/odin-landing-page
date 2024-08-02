@@ -11,6 +11,13 @@ body{
     margin:auto;
 }
 
+.info, .quote{
+    color:#1f2937;
+}
+
+/* Hero section */
+
+
 #hero, #footer{
     background-color:#1f2937;
     color:#e5e7eb;
@@ -56,9 +63,38 @@ nav a, button{
     margin:0px;
 }
 
+
+/* Info section */
+
+.info{
+    margin:75px auto;
+}
+
 h2{
     font-size:36px;
     font-weight:800;
+    text-align:center;
+}
+
+.info .container{
+    display:flex;
+    justify-content:center;
+    gap:47px;
+}
+
+.card, .card img{
+    max-width:166px;
+}
+
+.card img{
+    border-radius:10px;
+    border:4px solid #3882f6;
+}
+
+.card p{
+    text-align:center;
+    color:#586271;
+    margin:0;
 }
 
 .quote{
