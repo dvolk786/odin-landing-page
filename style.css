@@ -168,5 +168,10 @@ button, .cta .cta_card{
     color:#f9faf8;
 }
 
-/* CTA section */
+/* Footer section */
 
+#footer{
+    text-align:center;
+    padding:50px 0px;
+    color:#e5e7eb;
+}
